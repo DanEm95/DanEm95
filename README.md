@@ -1,9 +1,5 @@
 # ⚡ Daniel Malychko  
-<p>
-    <span style="font-size: 14px; background-color: #f6f8fa; padding: 4px 8px; border-radius: 6px; border: 10px solid #f6f8fa; color: black; font-weight: normal;">
-        Software Engineer
-    </span>
-</p>
+<button type="button">Software Engineer</button>
 
 👨‍💻 **Code, ☕ Coffee, and Creative Solutions 🎯**  
 As a future computer scientist specializing in application development, my passion lies in transforming complex requirements into elegant software solutions. I emphasize quality, efficiency, and creativity in every line of code. Whether hunting bugs or optimizing algorithms, I approach challenges with full commitment and, of course, a cup of coffee. My favorite "superpowers" include **C#**, **Python**, and **OpenEdge ABL**, which I leverage to deliver successful projects.

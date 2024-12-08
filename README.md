@@ -9,6 +9,6 @@ Fun fact: I have already learned that commenting code makes my future much more 
 </br>
 🕵️‍ Debugging - more than just finding bugs 🐞</br>
 What fascinates me about software development is the mix of creative problem solving and technical precision. Debugging is like a detective game for me - challenging and sometimes frustrating, but incredibly satisfying when the last bug is found. I love working with teams, discovering new technologies, and pushing myself. Most of all, I believe that technology can help people - and that motivates me every day.</br>
-
+</br>
 📨 Contact me 📨</br>
 If you want to talk about exciting projects or just exchange tips, I am at your disposal! Drop me a line on LinkedIn. Who knows, maybe our next conversation is the beginning of a great (code) adventure!

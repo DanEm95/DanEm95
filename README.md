@@ -28,21 +28,4 @@
     </a>
 </p>
 
-<style>
-    p {
-        margin-bottom: 1em; /* Adds spacing between paragraphs */
-        line-height: 1.6; /* Improves readability */
-    }
-    
-    h2 {
-        margin-top: 1.5em; /* Adds space above the heading */
-        margin-bottom: 0.5em; /* Adds space below the heading */
-    }
-    
-    hr {
-        border: none; /* Removes default border */
-        height: 1px; /* Sets height */
-        background-color: #ccc; /* Light gray color */
-        margin: 1em 0; /* Adds vertical spacing */
-    }
-</style>
+

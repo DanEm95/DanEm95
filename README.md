@@ -1,6 +1,6 @@
 # ⚡ Daniel Malychko  
-<button type="button">Software Engineer</button>
-<p>The price of XYZ is <span style="background-color:#aaa;font-size:2em;">$100</span> To order click Buy </p>
+[![Software Engineer](https://img.shields.io/badge/Software_Engineer-%f6f8fa?style=flat-square&color=f6f8fa&labelColor=f6f8fa&logoColor=black)](#)
+
 👨‍💻 **Code, ☕ Coffee, and Creative Solutions 🎯**  
 As a future computer scientist specializing in application development, my passion lies in transforming complex requirements into elegant software solutions. I emphasize quality, efficiency, and creativity in every line of code. Whether hunting bugs or optimizing algorithms, I approach challenges with full commitment and, of course, a cup of coffee. My favorite "superpowers" include **C#**, **Python**, and **OpenEdge ABL**, which I leverage to deliver successful projects.
 

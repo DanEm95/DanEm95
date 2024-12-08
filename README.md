@@ -1,7 +1,7 @@
 <h2>⚡ Daniel Malychko</h2>
 **Software Engineer**
 
-<h4>👨‍💻 Code, ☕ Coffee and creative solutions 🎯</h4>
+<p>👨‍💻 Code, ☕ Coffee and creative solutions 🎯</p>
 <p>As a future computer scientist for application development it is my passion to transform complex requirements into elegant software solutions. In doing so, I put special emphasis on quality, efficiency and a pinch of creativity. Whether it is the hunt for bugs or the optimization of algorithms, I face every challenge with full commitment and a cup of coffee. Technologies like C#, Python, OpenEdge ABL and others are my favorite "super powers" to implement projects successfully.
 </p>
 
@@ -17,6 +17,9 @@ Fun fact: I have already learned that commenting code makes my future much more 
 <p>📨 Contact me 📨</p>
 <p>If you want to talk about exciting projects or just exchange tips, I am at your disposal! Drop me a line on LinkedIn. Who knows, maybe our next conversation is the beginning of a great (code) adventure!
 </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat-square&logo=firefox)](https://yourportfolio.com)
 
 <h2>🔨 Here are some of the technologies and tools that I have been working with.<h2>
 <p>

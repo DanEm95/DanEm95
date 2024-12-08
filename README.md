@@ -1,6 +1,6 @@
 # ⚡ Daniel Malychko  
 <p>
-    <span style="font-size: 14px; background-color: #f6f8fa; padding: 4px 8px; border-radius: 6px; border: 1px solid #f6f8fa; color: black; font-weight: normal;">
+    <span style="font-size: 14px; background-color: #f6f8fa; padding: 4px 8px; border-radius: 6px; border: 10px solid #f6f8fa; color: black; font-weight: normal;">
         Software Engineer
     </span>
 </p>

@@ -18,7 +18,7 @@ Fun fact: I have already learned that commenting code makes my future much more 
 <p>If you want to talk about exciting projects or just exchange tips, I am at your disposal! Drop me a line on LinkedIn. Who knows, maybe our next conversation is the beginning of a great (code) adventure!
 </p>
 
-<p>🔨 Here are some of the technologies and tools that I have been working with<p></hr>
+<h2>🔨 Here are some of the technologies and tools that I have been working with<h2>
 <p>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,php,python,mysql,dotnet,cs" />

@@ -4,9 +4,6 @@
 👨‍💻 **Code, ☕ Coffee, and Creative Solutions 🎯**
 As a future computer scientist for application development it is my passion to transform complex requirements into elegant software solutions. In doing so, I put special emphasis on quality, efficiency and a pinch of creativity. Whether it is the hunt for bugs or the optimization of algorithms, I face every challenge with full commitment and a cup of coffee. Technologies like C#, Python, OpenEdge ABL and others are my favorite "super powers" to implement projects successfully.
 
-👨‍💻 **Code, ☕ Coffee, and Creative Solutions 🎯**  
-As a future computer scientist specializing in application development, my passion lies in transforming complex requirements into elegant software solutions. I emphasize quality, efficiency, and creativity in every line of code. Whether hunting bugs or optimizing algorithms, I approach challenges with full commitment and, of course, a cup of coffee. My favorite "superpowers" include **C#**, **Python**, and **OpenEdge ABL**, which I leverage to deliver successful projects.
-
 ---
 
 🖥️ **My Journey from 'Hello World' to Real Software** 🖥️

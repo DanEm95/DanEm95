@@ -23,8 +23,7 @@
     If you want to talk about exciting projects or just exchange tips, I am at your disposal! Drop me a line on LinkedIn. Who knows, maybe our next conversation is the beginning of a great (code) adventure!
 </p>
 
-<p>🔨 Here are some of the technologies and tools that I have been working with</p>
-<hr>
+<h5>🔨 Here are some of the technologies and tools that I have been working with<h5>
 <p>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,php,python,mysql,dotnet,cs" />

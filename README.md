@@ -18,8 +18,8 @@ Fun fact: I have already learned that commenting code makes my future much more 
 <p>If you want to talk about exciting projects or just exchange tips, I am at your disposal! Drop me a line on LinkedIn. Who knows, maybe our next conversation is the beginning of a great (code) adventure!
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat-square&logo=firefox)](https://yourportfolio.com)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-malychko)
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-orange?style=flat-square&logo=google-chrome&logoColor=white)](#)
 
 <h2>🔨 Here are some of the technologies and tools that I have been working with.<h2>
 <p>

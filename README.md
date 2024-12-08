@@ -1,9 +1,6 @@
 <h2>⚡ Daniel Malychko:</h2>
-//<hr>
 
-<div style="background-color: #c63678; padding: 10px; border-radius: 5px;">
-    <h3>💻 Software Engineer</h3>
-</div>
+<h3>💻 Software Engineer</h3>
 
 <p>👨‍💻 Code, ☕ Coffee and creative solutions 🎯</p>
 <p>
@@ -27,7 +24,7 @@
 </p>
 
 <p>🔨 Here are some of the technologies and tools that I have been working with</p>
-</hr>
+<hr>
 <p>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,php,python,mysql,dotnet,cs" />

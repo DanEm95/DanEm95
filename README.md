@@ -1,6 +1,6 @@
-<h2>⚡ Daniel Malychko:</h2>
+<h2>⚡ Daniel Malychko</h2>
 
-<h3>💻 Software Engineer</h3>
+<h4>💻 Software Engineer</h4>
 
 <p>👨‍💻 Code, ☕ Coffee and creative solutions 🎯</p>
 <p>

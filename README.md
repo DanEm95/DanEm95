@@ -16,6 +16,6 @@ If you want to talk about exciting projects or just exchange tips, I am at your 
 </br></br>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,php,python,sql" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,php,python,sql,dotnet,cs" />
   </a>
 </p>

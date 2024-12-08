@@ -1,27 +1,31 @@
-# ⚡ Daniel Malychko
-**Software Engineer**
+# ⚡ Daniel Malychko  
+### **Software Engineer**
 
-👨‍💻 Code, ☕ Coffee and creative solutions 🎯
-<p>As a future computer scientist for application development it is my passion to transform complex requirements into elegant software solutions. In doing so, I put special emphasis on quality, efficiency and a pinch of creativity. Whether it is the hunt for bugs or the optimization of algorithms, I face every challenge with full commitment and a cup of coffee. Technologies like C#, Python, OpenEdge ABL and others are my favorite "super powers" to implement projects successfully.
-</p>
+👨‍💻 **Code, ☕ Coffee, and Creative Solutions 🎯**  
+As a future computer scientist specializing in application development, my passion lies in transforming complex requirements into elegant software solutions. I emphasize quality, efficiency, and creativity in every line of code. Whether hunting bugs or optimizing algorithms, I approach challenges with full commitment and, of course, a cup of coffee. My favorite "superpowers" include **C#**, **Python**, and **OpenEdge ABL**, which I leverage to deliver successful projects.
 
-🖥️ My way from "Hello World" to real software 🖥️
-<p>During my apprenticeship at CBW (graduation in mid-January 2025), I not only learned to write clean code, but also to understand it - even the code I wrote a few weeks ago. In various projects I developed applications that not only work, but also solve real problems. This ranged from small automations to big optimizations.
-Fun fact: I have already learned that commenting code makes my future much more relaxed.
-</p>
+---
 
-🕵️‍ Debugging - more than just finding bugs 🐞
-<p>What fascinates me about software development is the mix of creative problem solving and technical precision. Debugging is like a detective game for me - challenging and sometimes frustrating, but incredibly satisfying when the last bug is found. I love working with teams, discovering new technologies, and pushing myself. Most of all, I believe that technology can help people - and that motivates me every day.
-</p>
+🖥️ **My Journey from 'Hello World' to Real Software** 🖥️  
+During my apprenticeship at CBW (graduating in January 2025), I’ve learned not only how to write clean code but also how to understand it—even the code I wrote weeks ago! I've developed applications that solve real-world problems, ranging from small automations to significant optimizations.  
+Fun fact: I've discovered that *commenting my code* makes my future self much happier.  
 
-📨 Contact me 📨
-<p>If you want to talk about exciting projects or just exchange tips, I am at your disposal! Drop me a line on LinkedIn. Who knows, maybe our next conversation is the beginning of a great (code) adventure!
-</p>
+---
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-malychko)
+🕵️‍♂️ **Debugging – More Than Just Finding Bugs 🐞**  
+What excites me most about software development is the mix of creative problem-solving and technical precision. Debugging feels like a detective game: challenging, occasionally frustrating, but always rewarding when the last bug is squashed. I thrive on collaboration, enjoy learning new technologies, and constantly push myself to grow. Most importantly, I believe technology should serve people—and that belief motivates me every day.
+
+---
+
+📨 **Contact Me!** 📨  
+Want to collaborate on an exciting project or exchange coding tips? I’d love to connect! Drop me a message on LinkedIn, and let’s start what could be the beginning of an incredible (code) adventure.  
+
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-malychko)  
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-orange?style=flat-square&logo=google-chrome&logoColor=white)](#)
 
-<h2>🔨 Here are some of the technologies and tools that I have been working with.<h2>
+---
+
+## 🔨 **Technologies & Tools**  
 <p>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,php,python,mysql,dotnet,cs" />

@@ -1,5 +1,9 @@
-<h2>🌟 About Me:</h2>
+<h2>⚡ Daniel Malychko:</h2>
 <hr>
+
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+    <h3>💻 Software Engineer</h3>
+</div>
 
 <p>👨‍💻 Code, ☕ Coffee and creative solutions 🎯</p>
 <p>
@@ -22,10 +26,10 @@
     If you want to talk about exciting projects or just exchange tips, I am at your disposal! Drop me a line on LinkedIn. Who knows, maybe our next conversation is the beginning of a great (code) adventure!
 </p>
 
+<p>🔨 Here are the technologies and tools i have worked with</p>
+</hr>
 <p>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,php,python,mysql,dotnet,cs" />
     </a>
 </p>
-
-

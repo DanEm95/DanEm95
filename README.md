@@ -1,4 +1,4 @@
-# ⚡ Daniel Malychko  
+# ⚡ Daniel Malychko
 [![Software Engineer](https://img.shields.io/badge/Software_Engineer-%f6f8fa?style=flat-square&color=f6f8fa&labelColor=f6f8fa&logoColor=black)](#)
 
 👨‍💻 **Code, ☕ Coffee, and Creative Solutions 🎯**  

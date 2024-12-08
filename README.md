@@ -1,5 +1,5 @@
 # ⚡ Daniel Malychko  
-<div style="font-size: 20px; background-color: #f6f8fa; padding: 5px 10px; border-radius: 5px; display: inline-block; color: #4b5563; font-weight: bold;">
+<div style="font-size: 20px; background-color: #f3f4f6; padding: 5px 10px; border-radius: 5px; border: 1px solid #f6f8fa; display: inline-block; color: #4b5563; font-weight: bold;">
     Software Engineer
 </div>
 

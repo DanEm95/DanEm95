@@ -13,7 +13,7 @@ What fascinates me about software development is the mix of creative problem sol
 📨 Contact me 📨</br>
 If you want to talk about exciting projects or just exchange tips, I am at your disposal! Drop me a line on LinkedIn. Who knows, maybe our next conversation is the beginning of a great (code) adventure!
 </hr>
-</br>
+</br></br>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,php,python,sql" />

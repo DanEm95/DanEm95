@@ -17,7 +17,7 @@ What fascinates me about software development is the mix of creative problem sol
 
 ---
 
-📨 **Contact Me!** 📨
+📨 **Contact Me!** 📨  
 If you want to talk about existing projects or just exchange tips, drop me a line on LinkedIn. Who knows, maybe our next conversation is the beginning of a great (code) adventure!
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-malychko)

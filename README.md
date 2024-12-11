@@ -1,4 +1,6 @@
-# ⚡ Daniel Malychko
+**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=⚡Hi%2C+everyone!+I'm+Daniel+Malychko.;⚡Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)**
+---
+
 [![Software Engineer ](https://img.shields.io/badge/Software_Engineer-%f6f8fa?style=flat-square&color=f6f8fa&labelColor=f6f8fa&logoColor=black)](#)
 
 👨‍💻 **Code, ☕ Coffee, and Creative Solutions 🎯**  
@@ -24,3 +26,12 @@ If you want to talk about existing projects or just exchange tips, drop me a lin
         <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,php,python,mysql,dotnet,cs" />
     </a>
 </p>
+
+## GitHub Stats
+
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/DanEm95">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=DanEm95&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanEm95&layout=compact&langs_count=7&theme=one_dark_pro"/>
+  </a>
+</div>

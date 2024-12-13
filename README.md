@@ -23,7 +23,7 @@ If you want to talk about existing projects or just exchange tips, drop me a lin
 ## 🔨 **Here are some technologies, tools & libraries I have worked with**  
 <p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,php,python,mysql,dotnet,cs" />
+        <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react,nodejs,swift,php,python,flask,selenium,cs,dotnet,postman,powershell,postgres,mysql,sqlite,git,vscode,pycharm,eclipse,replit,stackoverflow,windows,linux,kali,ubuntu" />
     </a>
 </p>
 

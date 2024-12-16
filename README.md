@@ -35,3 +35,5 @@ If you want to talk about existing projects or just exchange tips, drop me a lin
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanEm95&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
+
+## Languages

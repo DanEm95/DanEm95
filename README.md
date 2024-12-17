@@ -1,7 +1,6 @@
 **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=⚡Hi%2C+everyone!+I'm+Daniel+Malychko.;⚡Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)**
 ---
-
-[![Software Engineer ](https://img.shields.io/badge/Software_Engineer-%f6f8fa?style=flat-square&color=f6f8fa&labelColor=f6f8fa&logoColor=black)](#)
+[![Software Engineer](https://img.shields.io/badge/Software%20Engineer%20-%20f6f8fa?style=flat-square&logo=Software%20Engineer&logoColor=black&color=f6f8fa)](#)
 
 👨‍💻 **Code, ☕ Coffee, and Creative Solutions** 🎯  
 As a future computer scientist for application development it is my passion to transform complex requirements into elegant software solutions. In doing so, I put special emphasis on quality, efficiency and a pinch of creativity. Whether it is the hunt for bugs or the optimization of algorithms, I face every challenge with full commitment and a cup of coffee. Technologies like ABL, C#, Python, JavaScript and others are my favorite "super powers" to implement projects successfully.

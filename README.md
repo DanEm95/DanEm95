@@ -31,6 +31,6 @@ If you want to talk about existing projects or just exchange tips, drop me a lin
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/DanEm95">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=DanEm95&show_icons=true&theme=maroongold&include_all_commits=true&rank_icon=github"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanEm95&layout=compact&langs_count=22&theme=maroongold"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanEm95&layout=compact&langs_count=24&theme=maroongold"/>
   </a>
 </div>

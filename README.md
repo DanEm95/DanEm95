@@ -16,7 +16,7 @@ What fascinates me about software development is the mix of creative problem sol
 If you want to talk about existing projects or just exchange tips, drop me a line on LinkedIn. Who knows, maybe our next conversation is the beginning of a great (code) adventure!
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-malychko)
-[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-orange?style=flat-square&logo=google-chrome&logoColor=white)](#)
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-react-js-vite.vercel.app)
 ---
 
 ## 🔨 **Here are some technologies, tools & libraries I have worked with**  
